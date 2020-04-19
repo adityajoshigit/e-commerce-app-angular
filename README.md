@@ -1,1 +1,1 @@
-# e-commerce-app-angular
+E-Commerce app for Grocery-like stores
